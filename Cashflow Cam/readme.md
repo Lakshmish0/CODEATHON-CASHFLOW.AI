@@ -2,6 +2,14 @@
 
 **Cashflow CAM** is an AI-powered Credit Assessment Model designed to analyze cash flow, business performance, and alternative metrics to predict loan eligibility and recommend tailored loan amounts across various categories.
 
+
+[Watch Demo Video](Cashflow_Cam_Demo_Video.mp4)
+
+<video width="720" controls>
+  <source src="Cashflow_Cam_Demo_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 🚀 Functionality
 - **Cash Flow Analysis**: Provides insights into cash flow trends and anomalies.
 - **Business Performance Assessment**: Evaluates operational efficiency and financial health.
