@@ -84,8 +84,6 @@ Cashflow.AI is a **suite of AI-powered tools** designed to empower unbanked nano
 
 Cashflow.AI is a step towards **financial inclusion**, providing nano-entrepreneurs with the tools they need to thrive. Together, we can empower millions to achieve their entrepreneurial dreams and uplift local economies.
 
-### 📫 **Contact Us**
-For queries or contributions, reach out at **[team@cashflowai.com](mailto:team@cashflowai.com)**.
 
 ---
 
@@ -106,4 +104,3 @@ This project is licensed under the [MIT License](LICENSE).
 Our Base Plan
 
 ![Footer Image](Base_Plan.jpg)  
-
